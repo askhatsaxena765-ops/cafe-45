@@ -1,0 +1,6 @@
+{
+  "name": "The Cafe 45",
+  "description": "Discover The Cafe 45 in Bareilly for coffee, pizzas, burgers and casual bites in a comfortable café setting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
